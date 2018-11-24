@@ -51,6 +51,8 @@ public class Principal extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_principal);
 
+        //Botões
+
 
         Conectar = (Button) findViewById(R.id.ConectarID);
         LED1 = (Button) findViewById(R.id.led1ID);
